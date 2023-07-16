@@ -3,7 +3,7 @@
 # Run `pod lib lint client_information.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'client_information'
+  s.name             = 'custom_client_information'
   s.version          = '1.0.0'
   s.summary          = 'A plugin to get the client information.'
   s.description      = <<-DESC
